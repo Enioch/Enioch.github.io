@@ -263,6 +263,9 @@ color: #fff;
 .featured-work h2{
 	text-align:left;
 }
+.featured-work h3{
+	text-align:left;
+}
 .featured-box{
 	padding:0 0 0 0;
 	margin-bottom:25px;
