@@ -38,9 +38,11 @@
   clear: both;
 }
 
-.figure{ margin:0px;}
+.figure{ margin:80px;}
 
-img{ max-width:100%;}
+img{
+	max-width:100%;
+}
 
 a, a:hover, a:active{ outline:0px !important}
 

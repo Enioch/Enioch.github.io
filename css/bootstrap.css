@@ -711,6 +711,11 @@ pre code {
   margin-left: -15px;
   margin-right: -15px;
 }
+
+.row-s {
+	margin-top:15px;	
+}
+
 .row:before,
 .row:after {
   content: " ";
